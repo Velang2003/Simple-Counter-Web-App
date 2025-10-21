@@ -1,6 +1,8 @@
 # 🧮 Simple Counter Web App
 
-![Counter Preview](./src/preview.png)
+<div align="center">
+  <img src="src/preview.png" alt="To-Do App Preview" width="60%">
+</div>
 
 A simple and elegant **Counter App** built using **HTML**, **CSS**, and **JavaScript**.  
 This app allows users to increment, decrement, and reset a counter value — and it **remembers your last count** even after refreshing the page using `localStorage`.
@@ -32,7 +34,7 @@ This app allows users to increment, decrement, and reset a counter value — and
 1. **Clone this repository**
    ```
    git clone https://github.com/your-username/counter-app.git
-  ```
+   
 2. **Open the project folder**
 ```
     cd counter-app
