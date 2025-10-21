@@ -37,7 +37,7 @@ This app allows users to increment, decrement, and reset a counter value — and
    
 2. **Open the project folder**
 ```
-    cd counter-app
+    cd simple-counter-web-app
 ```
 
 3. **Run the app**
