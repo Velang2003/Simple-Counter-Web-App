@@ -33,7 +33,7 @@ This app allows users to increment, decrement, and reset a counter value — and
 
 1. **Clone this repository**
    ```
-   git clone https://github.com/your-username/counter-app.git
+   git clone https://github.com/Velang2003/Simple-Counter-Web-App.git
    
 2. **Open the project folder**
 ```
